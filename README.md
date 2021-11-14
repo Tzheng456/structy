@@ -6,8 +6,8 @@
 
 1. Introduction
 
-   -hey-programmer.js
+   -[hey-programmer.js](https://github.com/Tzheng456/structy/tree/main/Introduction/hey-programmer.js)
 
-   -is-prime.js
+   -[is-prime.js](https://github.com/Tzheng456/structy/tree/main/Introduction/is-prime.js)
 
-   -max-value.js
+   -[max-value.js](https://github.com/Tzheng456/structy/tree/main/Introduction/max-value.js)
