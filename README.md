@@ -5,6 +5,6 @@
 ### Included sections
 
 1. Introduction
-   -hey-programmer.js
-   -is-prime.js
-   -max-value.js
+   *hey-programmer.js
+   *is-prime.js
+   \*max-value.js
